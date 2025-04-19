@@ -1,1009 +1,3594 @@
-[{
-    "name": "Ykpvba",
-    "roll_no": "IC24BTECH11003",
-    "email": "ic24btech11003@iith.ac.in",
-    "previous_mess": "MESS-A",
-    "current_mess": "MESS-A",
-    "mess_feedback": []
-},
-{
-    "name": "Equvtd",
-    "roll_no": "IC24BTECH11004",
-    "email": "ic24btech11004@iith.ac.in",
-    "previous_mess": "MESS-A",
-    "current_mess": "MESS-A",
-    "mess_feedback": []
-},
-{
-    "name": "Igvhmz",
-    "roll_no": "IC24BTECH11005",
-    "email": "ic24btech11005@iith.ac.in",
-    "previous_mess": "MESS-B",
-    "current_mess": "MESS-A",
-    "mess_feedback": []
-},
-{
-    "name": "Ckzkfl",
-    "roll_no": "IC24BTECH11006",
-    "email": "ic24btech11006@iith.ac.in",
-    "previous_mess": "MESS-B",
-    "current_mess": "MESS-A",
-    "mess_feedback": []
-},
-{
-    "name": "Xobzns",
-    "roll_no": "IC24BTECH11007",
-    "email": "ic24btech11007@iith.ac.in",
-    "previous_mess": "MESS-B",
-    "current_mess": "MESS-A",
-    "mess_feedback": []
-},
-{
-    "name": "Ouewoh",
-    "roll_no": "IC24BTECH11008",
-    "email": "ic24btech11008@iith.ac.in",
-    "previous_mess": "MESS-A",
-    "current_mess": "MESS-B",
-    "mess_feedback": []
-},
-{
-    "name": "Pmdwgf",
-    "roll_no": "IC24BTECH11009",
-    "email": "ic24btech11009@iith.ac.in",
-    "previous_mess": "MESS-A",
-    "current_mess": "MESS-B",
-    "mess_feedback": []
-},
-{
-    "name": "Yrzxuo",
-    "roll_no": "IC24BTECH11010",
-    "email": "ic24btech11010@iith.ac.in",
-    "previous_mess": "MESS-A",
-    "current_mess": "MESS-A",
-    "mess_feedback": []
-},
-{
-    "name": "Stmajs",
-    "roll_no": "IC24BTECH11011",
-    "email": "ic24btech11011@iith.ac.in",
-    "previous_mess": "MESS-A",
-    "current_mess": "MESS-B",
-    "mess_feedback": []
-},
-{
-    "name": "Ktbedv",
-    "roll_no": "IC24BTECH11012",
-    "email": "ic24btech11012@iith.ac.in",
-    "previous_mess": "MESS-B",
-    "current_mess": "MESS-B",
-    "mess_feedback": []
-},
-{
-    "name": "Wnaclf",
-    "roll_no": "IC24BTECH11013",
-    "email": "ic24btech11013@iith.ac.in",
-    "previous_mess": "MESS-A",
-    "current_mess": "MESS-B",
-    "mess_feedback": []
-},
-{
-    "name": "Junmdd",
-    "roll_no": "IC24BTECH11014",
-    "email": "ic24btech11014@iith.ac.in",
-    "previous_mess": "MESS-B",
-    "current_mess": "MESS-A",
-    "mess_feedback": []
-},
-{
-    "name": "Etqgnx",
-    "roll_no": "IC24BTECH11015",
-    "email": "ic24btech11015@iith.ac.in",
-    "previous_mess": "MESS-B",
-    "current_mess": "MESS-A",
-    "mess_feedback": []
-},
-{
-    "name": "Bigqza",
-    "roll_no": "IC24BTECH11016",
-    "email": "ic24btech11016@iith.ac.in",
-    "previous_mess": "MESS-A",
-    "current_mess": "MESS-A",
-    "mess_feedback": []
-},
-{
-    "name": "Dnytxr",
-    "roll_no": "IC24BTECH11017",
-    "email": "ic24btech11017@iith.ac.in",
-    "previous_mess": "MESS-A",
-    "current_mess": "MESS-A",
-    "mess_feedback": []
-},
-{
-    "name": "Tkpbof",
-    "roll_no": "IC24BTECH11018",
-    "email": "ic24btech11018@iith.ac.in",
-    "previous_mess": "MESS-B",
-    "current_mess": "MESS-A",
-    "mess_feedback": []
-},
-{
-    "name": "Zysiwy",
-    "roll_no": "IC24BTECH11019",
-    "email": "ic24btech11019@iith.ac.in",
-    "previous_mess": "MESS-B",
-    "current_mess": "MESS-B",
-    "mess_feedback": []
-},
-{
-    "name": "Edeups",
-    "roll_no": "IC24BTECH11020",
-    "email": "ic24btech11020@iith.ac.in",
-    "previous_mess": "MESS-B",
-    "current_mess": "MESS-A",
-    "mess_feedback": []
-},
-{
-    "name": "Bowuqo",
-    "roll_no": "IC24BTECH11021",
-    "email": "ic24btech11021@iith.ac.in",
-    "previous_mess": "MESS-A",
-    "current_mess": "MESS-B",
-    "mess_feedback": []
-},
-{
-    "name": "Shjvcm",
-    "roll_no": "IC24BTECH11022",
-    "email": "ic24btech11022@iith.ac.in",
-    "previous_mess": "MESS-B",
-    "current_mess": "MESS-B",
-    "mess_feedback": []
-},
-{
-    "name": "Xboqcu",
-    "roll_no": "IC24BTECH11023",
-    "email": "ic24btech11023@iith.ac.in",
-    "previous_mess": "MESS-B",
-    "current_mess": "MESS-B",
-    "mess_feedback": []
-},
-{
-    "name": "Jjjjyx",
-    "roll_no": "IC24BTECH11024",
-    "email": "ic24btech11024@iith.ac.in",
-    "previous_mess": "MESS-A",
-    "current_mess": "MESS-B",
-    "mess_feedback": []
-},
-{
-    "name": "Yvsjcx",
-    "roll_no": "IC24BTECH11025",
-    "email": "ic24btech11025@iith.ac.in",
-    "previous_mess": "MESS-A",
-    "current_mess": "MESS-A",
-    "mess_feedback": []
-},
-{
-    "name": "Uidpax",
-    "roll_no": "IC24BTECH11026",
-    "email": "ic24btech11026@iith.ac.in",
-    "previous_mess": "MESS-A",
-    "current_mess": "MESS-A",
-    "mess_feedback": []
-},
-{
-    "name": "Huurxb",
-    "roll_no": "IC24BTECH11027",
-    "email": "ic24btech11027@iith.ac.in",
-    "previous_mess": "MESS-B",
-    "current_mess": "MESS-B",
-    "mess_feedback": []
-},
-{
-    "name": "Npetqg",
-    "roll_no": "IC24BTECH11028",
-    "email": "ic24btech11028@iith.ac.in",
-    "previous_mess": "MESS-B",
-    "current_mess": "MESS-A",
-    "mess_feedback": []
-},
-{
-    "name": "Pkbwwc",
-    "roll_no": "IC24BTECH11029",
-    "email": "ic24btech11029@iith.ac.in",
-    "previous_mess": "MESS-A",
-    "current_mess": "MESS-B",
-    "mess_feedback": []
-},
-{
-    "name": "Xihgnu",
-    "roll_no": "IC24BTECH11030",
-    "email": "ic24btech11030@iith.ac.in",
-    "previous_mess": "MESS-A",
-    "current_mess": "MESS-A",
-    "mess_feedback": []
-},
-{
-    "name": "Hhpgdp",
-    "roll_no": "IC24BTECH11031",
-    "email": "ic24btech11031@iith.ac.in",
-    "previous_mess": "MESS-B",
-    "current_mess": "MESS-A",
-    "mess_feedback": []
-},
-{
-    "name": "Mzsask",
-    "roll_no": "IC24BTECH11032",
-    "email": "ic24btech11032@iith.ac.in",
-    "previous_mess": "MESS-B",
-    "current_mess": "MESS-A",
-    "mess_feedback": []
-},
-{
-    "name": "Viaibo",
-    "roll_no": "IC24BTECH11033",
-    "email": "ic24btech11033@iith.ac.in",
-    "previous_mess": "MESS-B",
-    "current_mess": "MESS-B",
-    "mess_feedback": []
-},
-{
-    "name": "Vxebdy",
-    "roll_no": "IC24BTECH11034",
-    "email": "ic24btech11034@iith.ac.in",
-    "previous_mess": "MESS-B",
-    "current_mess": "MESS-B",
-    "mess_feedback": []
-},
-{
-    "name": "Fksrya",
-    "roll_no": "IC24BTECH11035",
-    "email": "ic24btech11035@iith.ac.in",
-    "previous_mess": "MESS-B",
-    "current_mess": "MESS-A",
-    "mess_feedback": []
-},
-{
-    "name": "Gsylgs",
-    "roll_no": "IC24BTECH11036",
-    "email": "ic24btech11036@iith.ac.in",
-    "previous_mess": "MESS-B",
-    "current_mess": "MESS-B",
-    "mess_feedback": []
-},
-{
-    "name": "Tgtbjn",
-    "roll_no": "IC24BTECH11037",
-    "email": "ic24btech11037@iith.ac.in",
-    "previous_mess": "MESS-A",
-    "current_mess": "MESS-B",
-    "mess_feedback": []
-},
-{
-    "name": "Pfotte",
-    "roll_no": "IC24BTECH11038",
-    "email": "ic24btech11038@iith.ac.in",
-    "previous_mess": "MESS-A",
-    "current_mess": "MESS-A",
-    "mess_feedback": []
-},
-{
-    "name": "Vbuvat",
-    "roll_no": "IC24BTECH11039",
-    "email": "ic24btech11039@iith.ac.in",
-    "previous_mess": "MESS-B",
-    "current_mess": "MESS-A",
-    "mess_feedback": []
-},
-{
-    "name": "Mbgheu",
-    "roll_no": "IC24BTECH11040",
-    "email": "ic24btech11040@iith.ac.in",
-    "previous_mess": "MESS-A",
-    "current_mess": "MESS-A",
-    "mess_feedback": []
-},
-{
-    "name": "Rggjwb",
-    "roll_no": "IC24BTECH11041",
-    "email": "ic24btech11041@iith.ac.in",
-    "previous_mess": "MESS-A",
-    "current_mess": "MESS-B",
-    "mess_feedback": []
-},
-{
-    "name": "Yivdbr",
-    "roll_no": "IC24BTECH11042",
-    "email": "ic24btech11042@iith.ac.in",
-    "previous_mess": "MESS-B",
-    "current_mess": "MESS-A",
-    "mess_feedback": []
-},
-{
-    "name": "Fadrnm",
-    "roll_no": "IC24BTECH11043",
-    "email": "ic24btech11043@iith.ac.in",
-    "previous_mess": "MESS-A",
-    "current_mess": "MESS-A",
-    "mess_feedback": []
-},
-{
-    "name": "Ivrvkv",
-    "roll_no": "IC24BTECH11044",
-    "email": "ic24btech11044@iith.ac.in",
-    "previous_mess": "MESS-A",
-    "current_mess": "MESS-B",
-    "mess_feedback": []
-},
-{
-    "name": "Qzlhfv",
-    "roll_no": "IC24BTECH11045",
-    "email": "ic24btech11045@iith.ac.in",
-    "previous_mess": "MESS-B",
-    "current_mess": "MESS-B",
-    "mess_feedback": []
-},
-{
-    "name": "Lvkzco",
-    "roll_no": "IC24BTECH11046",
-    "email": "ic24btech11046@iith.ac.in",
-    "previous_mess": "MESS-B",
-    "current_mess": "MESS-A",
-    "mess_feedback": []
-},
-{
-    "name": "Vfxwrn",
-    "roll_no": "IC24BTECH11047",
-    "email": "ic24btech11047@iith.ac.in",
-    "previous_mess": "MESS-B",
-    "current_mess": "MESS-A",
-    "mess_feedback": []
-},
-{
-    "name": "Uwipgo",
-    "roll_no": "IC24BTECH11048",
-    "email": "ic24btech11048@iith.ac.in",
-    "previous_mess": "MESS-A",
-    "current_mess": "MESS-B",
-    "mess_feedback": []
-},
-{
-    "name": "Ihsvpu",
-    "roll_no": "IC24BTECH11049",
-    "email": "ic24btech11049@iith.ac.in",
-    "previous_mess": "MESS-A",
-    "current_mess": "MESS-A",
-    "mess_feedback": []
-},
-{
-    "name": "Poxpgr",
-    "roll_no": "IC24BTECH11050",
-    "email": "ic24btech11050@iith.ac.in",
-    "previous_mess": "MESS-A",
-    "current_mess": "MESS-B",
-    "mess_feedback": []
-},
-{
-    "name": "Skscoo",
-    "roll_no": "IC24BTECH11051",
-    "email": "ic24btech11051@iith.ac.in",
-    "previous_mess": "MESS-B",
-    "current_mess": "MESS-B",
-    "mess_feedback": []
-},
-{
-    "name": "Wpixbq",
-    "roll_no": "IC24BTECH11052",
-    "email": "ic24btech11052@iith.ac.in",
-    "previous_mess": "MESS-A",
-    "current_mess": "MESS-B",
-    "mess_feedback": []
-},
-{
-    "name": "Iwoqng",
-    "roll_no": "IC24BTECH11053",
-    "email": "ic24btech11053@iith.ac.in",
-    "previous_mess": "MESS-B",
-    "current_mess": "MESS-B",
-    "mess_feedback": []
-},
-{
-    "name": "Nwoqwi",
-    "roll_no": "IC24BTECH11054",
-    "email": "ic24btech11054@iith.ac.in",
-    "previous_mess": "MESS-B",
-    "current_mess": "MESS-A",
-    "mess_feedback": []
-},
-{
-    "name": "Wgamof",
-    "roll_no": "IC24BTECH11055",
-    "email": "ic24btech11055@iith.ac.in",
-    "previous_mess": "MESS-B",
-    "current_mess": "MESS-B",
-    "mess_feedback": []
-},
-{
-    "name": "Ixduga",
-    "roll_no": "IC24BTECH11056",
-    "email": "ic24btech11056@iith.ac.in",
-    "previous_mess": "MESS-A",
-    "current_mess": "MESS-B",
-    "mess_feedback": []
-},
-{
-    "name": "Ijplhc",
-    "roll_no": "IC24BTECH11057",
-    "email": "ic24btech11057@iith.ac.in",
-    "previous_mess": "MESS-A",
-    "current_mess": "MESS-B",
-    "mess_feedback": []
-},
-{
-    "name": "Iuqdwn",
-    "roll_no": "IC24BTECH11058",
-    "email": "ic24btech11058@iith.ac.in",
-    "previous_mess": "MESS-A",
-    "current_mess": "MESS-B",
-    "mess_feedback": []
-},
-{
-    "name": "Sfntwh",
-    "roll_no": "IC24BTECH11059",
-    "email": "ic24btech11059@iith.ac.in",
-    "previous_mess": "MESS-A",
-    "current_mess": "MESS-B",
-    "mess_feedback": []
-},
-{
-    "name": "Aguxgn",
-    "roll_no": "IC24BTECH11060",
-    "email": "ic24btech11060@iith.ac.in",
-    "previous_mess": "MESS-A",
-    "current_mess": "MESS-A",
-    "mess_feedback": []
-},
-{
-    "name": "Fcbdfv",
-    "roll_no": "IC24BTECH11061",
-    "email": "ic24btech11061@iith.ac.in",
-    "previous_mess": "MESS-A",
-    "current_mess": "MESS-B",
-    "mess_feedback": []
-},
-{
-    "name": "Zvxecc",
-    "roll_no": "IC24BTECH11062",
-    "email": "ic24btech11062@iith.ac.in",
-    "previous_mess": "MESS-A",
-    "current_mess": "MESS-A",
-    "mess_feedback": []
-},
-{
-    "name": "Rcbydi",
-    "roll_no": "IC24BTECH11063",
-    "email": "ic24btech11063@iith.ac.in",
-    "previous_mess": "MESS-B",
-    "current_mess": "MESS-B",
-    "mess_feedback": []
-},
-{
-    "name": "Omrpjc",
-    "roll_no": "IC24BTECH11064",
-    "email": "ic24btech11064@iith.ac.in",
-    "previous_mess": "MESS-A",
-    "current_mess": "MESS-B",
-    "mess_feedback": []
-},
-{
-    "name": "Ydluby",
-    "roll_no": "CH24BTECH11001",
-    "email": "ch24btech11001@iith.ac.in",
-    "previous_mess": "MESS-A",
-    "current_mess": "MESS-B",
-    "mess_feedback": []
-},
-{
-    "name": "Vwckuj",
-    "roll_no": "CH24BTECH11002",
-    "email": "ch24btech11002@iith.ac.in",
-    "previous_mess": "MESS-B",
-    "current_mess": "MESS-A",
-    "mess_feedback": []
-},
-{
-    "name": "Drwevl",
-    "roll_no": "CH24BTECH11003",
-    "email": "ch24btech11003@iith.ac.in",
-    "previous_mess": "MESS-B",
-    "current_mess": "MESS-A",
-    "mess_feedback": []
-},
-{
-    "name": "Ebzrod",
-    "roll_no": "CH24BTECH11004",
-    "email": "ch24btech11004@iith.ac.in",
-    "previous_mess": "MESS-A",
-    "current_mess": "MESS-B",
-    "mess_feedback": []
-},
-{
-    "name": "Wbpiar",
-    "roll_no": "CH24BTECH11005",
-    "email": "ch24btech11005@iith.ac.in",
-    "previous_mess": "MESS-A",
-    "current_mess": "MESS-B",
-    "mess_feedback": []
-},
-{
-    "name": "Fzcjun",
-    "roll_no": "CH24BTECH11006",
-    "email": "ch24btech11006@iith.ac.in",
-    "previous_mess": "MESS-A",
-    "current_mess": "MESS-B",
-    "mess_feedback": []
-},
-{
-    "name": "Ivipif",
-    "roll_no": "CH24BTECH11007",
-    "email": "ch24btech11007@iith.ac.in",
-    "previous_mess": "MESS-A",
-    "current_mess": "MESS-B",
-    "mess_feedback": []
-},
-{
-    "name": "Djdeio",
-    "roll_no": "CH24BTECH11008",
-    "email": "ch24btech11008@iith.ac.in",
-    "previous_mess": "MESS-A",
-    "current_mess": "MESS-A",
-    "mess_feedback": []
-},
-{
-    "name": "Bjhdke",
-    "roll_no": "CH24BTECH11009",
-    "email": "ch24btech11009@iith.ac.in",
-    "previous_mess": "MESS-A",
-    "current_mess": "MESS-A",
-    "mess_feedback": []
-},
-{
-    "name": "Whdwgk",
-    "roll_no": "CH24BTECH11010",
-    "email": "ch24btech11010@iith.ac.in",
-    "previous_mess": "MESS-B",
-    "current_mess": "MESS-B",
-    "mess_feedback": []
-},
-{
-    "name": "Ggpazd",
-    "roll_no": "CH24BTECH11011",
-    "email": "ch24btech11011@iith.ac.in",
-    "previous_mess": "MESS-A",
-    "current_mess": "MESS-A",
-    "mess_feedback": []
-},
-{
-    "name": "Owrdxd",
-    "roll_no": "CH24BTECH11012",
-    "email": "ch24btech11012@iith.ac.in",
-    "previous_mess": "MESS-B",
-    "current_mess": "MESS-B",
-    "mess_feedback": []
-},
-{
-    "name": "Ijefkb",
-    "roll_no": "CH24BTECH11013",
-    "email": "ch24btech11013@iith.ac.in",
-    "previous_mess": "MESS-B",
-    "current_mess": "MESS-A",
-    "mess_feedback": []
-},
-{
-    "name": "Qxlcdn",
-    "roll_no": "CH24BTECH11014",
-    "email": "ch24btech11014@iith.ac.in",
-    "previous_mess": "MESS-B",
-    "current_mess": "MESS-B",
-    "mess_feedback": []
-},
-{
-    "name": "Rffftb",
-    "roll_no": "CH24BTECH11015",
-    "email": "ch24btech11015@iith.ac.in",
-    "previous_mess": "MESS-A",
-    "current_mess": "MESS-B",
-    "mess_feedback": []
-},
-{
-    "name": "Mfrllh",
-    "roll_no": "CH24BTECH11016",
-    "email": "ch24btech11016@iith.ac.in",
-    "previous_mess": "MESS-B",
-    "current_mess": "MESS-B",
-    "mess_feedback": []
-},
-{
-    "name": "Wamylx",
-    "roll_no": "CH24BTECH11017",
-    "email": "ch24btech11017@iith.ac.in",
-    "previous_mess": "MESS-B",
-    "current_mess": "MESS-A",
-    "mess_feedback": []
-},
-{
-    "name": "Xvwqez",
-    "roll_no": "CH24BTECH11018",
-    "email": "ch24btech11018@iith.ac.in",
-    "previous_mess": "MESS-B",
-    "current_mess": "MESS-A",
-    "mess_feedback": []
-},
-{
-    "name": "Wbmkpb",
-    "roll_no": "CH24BTECH11019",
-    "email": "ch24btech11019@iith.ac.in",
-    "previous_mess": "MESS-A",
-    "current_mess": "MESS-A",
-    "mess_feedback": []
-},
-{
-    "name": "Ekundk",
-    "roll_no": "CH24BTECH11020",
-    "email": "ch24btech11020@iith.ac.in",
-    "previous_mess": "MESS-A",
-    "current_mess": "MESS-B",
-    "mess_feedback": []
-},
-{
-    "name": "Eupcmc",
-    "roll_no": "CH24BTECH11021",
-    "email": "ch24btech11021@iith.ac.in",
-    "previous_mess": "MESS-A",
-    "current_mess": "MESS-B",
-    "mess_feedback": []
-},
-{
-    "name": "Wtxjfk",
-    "roll_no": "CH24BTECH11022",
-    "email": "ch24btech11022@iith.ac.in",
-    "previous_mess": "MESS-A",
-    "current_mess": "MESS-B",
-    "mess_feedback": []
-},
-{
-    "name": "Obumdn",
-    "roll_no": "CH24BTECH11023",
-    "email": "ch24btech11023@iith.ac.in",
-    "previous_mess": "MESS-A",
-    "current_mess": "MESS-B",
-    "mess_feedback": []
-},
-{
-    "name": "Exffji",
-    "roll_no": "CH24BTECH11024",
-    "email": "ch24btech11024@iith.ac.in",
-    "previous_mess": "MESS-B",
-    "current_mess": "MESS-A",
-    "mess_feedback": []
-},
-{
-    "name": "Zzvegz",
-    "roll_no": "CH24BTECH11025",
-    "email": "ch24btech11025@iith.ac.in",
-    "previous_mess": "MESS-B",
-    "current_mess": "MESS-A",
-    "mess_feedback": []
-},
-{
-    "name": "Dqrkvp",
-    "roll_no": "CH24BTECH11026",
-    "email": "ch24btech11026@iith.ac.in",
-    "previous_mess": "MESS-B",
-    "current_mess": "MESS-A",
-    "mess_feedback": []
-},
-{
-    "name": "Yivnig",
-    "roll_no": "CH24BTECH11027",
-    "email": "ch24btech11027@iith.ac.in",
-    "previous_mess": "MESS-A",
-    "current_mess": "MESS-B",
-    "mess_feedback": []
-},
-{
-    "name": "Tymfsq",
-    "roll_no": "CH24BTECH11028",
-    "email": "ch24btech11028@iith.ac.in",
-    "previous_mess": "MESS-A",
-    "current_mess": "MESS-A",
-    "mess_feedback": []
-},
-{
-    "name": "Klloao",
-    "roll_no": "CH24BTECH11029",
-    "email": "ch24btech11029@iith.ac.in",
-    "previous_mess": "MESS-B",
-    "current_mess": "MESS-A",
-    "mess_feedback": []
-},
-{
-    "name": "Drhjgs",
-    "roll_no": "CH24BTECH11030",
-    "email": "ch24btech11030@iith.ac.in",
-    "previous_mess": "MESS-A",
-    "current_mess": "MESS-B",
-    "mess_feedback": []
-},
-{
-    "name": "Gcwojs",
-    "roll_no": "CH24BTECH11031",
-    "email": "ch24btech11031@iith.ac.in",
-    "previous_mess": "MESS-B",
-    "current_mess": "MESS-A",
-    "mess_feedback": []
-},
-{
-    "name": "Zpaint",
-    "roll_no": "CH24BTECH11032",
-    "email": "ch24btech11032@iith.ac.in",
-    "previous_mess": "MESS-A",
-    "current_mess": "MESS-B",
-    "mess_feedback": []
-},
-{
-    "name": "Odqren",
-    "roll_no": "CH24BTECH11033",
-    "email": "ch24btech11033@iith.ac.in",
-    "previous_mess": "MESS-B",
-    "current_mess": "MESS-B",
-    "mess_feedback": []
-},
-{
-    "name": "Lvootn",
-    "roll_no": "CH24BTECH11034",
-    "email": "ch24btech11034@iith.ac.in",
-    "previous_mess": "MESS-B",
-    "current_mess": "MESS-A",
-    "mess_feedback": []
-},
-{
-    "name": "Txjuhy",
-    "roll_no": "CH24BTECH11035",
-    "email": "ch24btech11035@iith.ac.in",
-    "previous_mess": "MESS-A",
-    "current_mess": "MESS-A",
-    "mess_feedback": []
-},
-{
-    "name": "Vcfitk",
-    "roll_no": "CH24BTECH11036",
-    "email": "ch24btech11036@iith.ac.in",
-    "previous_mess": "MESS-A",
-    "current_mess": "MESS-A",
-    "mess_feedback": []
-},
-{
-    "name": "Fuxyrp",
-    "roll_no": "CH24BTECH11037",
-    "email": "ch24btech11037@iith.ac.in",
-    "previous_mess": "MESS-A",
-    "current_mess": "MESS-B",
-    "mess_feedback": []
-},
-{
-    "name": "Glrpzk",
-    "roll_no": "CH24BTECH11038",
-    "email": "ch24btech11038@iith.ac.in",
-    "previous_mess": "MESS-A",
-    "current_mess": "MESS-B",
-    "mess_feedback": []
-},
-{
-    "name": "Lqpzdw",
-    "roll_no": "CH24BTECH11039",
-    "email": "ch24btech11039@iith.ac.in",
-    "previous_mess": "MESS-B",
-    "current_mess": "MESS-B",
-    "mess_feedback": []
-},
-{
-    "name": "Uagxax",
-    "roll_no": "CH24BTECH11040",
-    "email": "ch24btech11040@iith.ac.in",
-    "previous_mess": "MESS-B",
-    "current_mess": "MESS-B",
-    "mess_feedback": []
-},
-{
-    "name": "Psxdja",
-    "roll_no": "CH24BTECH11041",
-    "email": "ch24btech11041@iith.ac.in",
-    "previous_mess": "MESS-B",
-    "current_mess": "MESS-B",
-    "mess_feedback": []
-},
-{
-    "name": "Fvefxt",
-    "roll_no": "CH24BTECH11042",
-    "email": "ch24btech11042@iith.ac.in",
-    "previous_mess": "MESS-B",
-    "current_mess": "MESS-B",
-    "mess_feedback": []
-},
-{
-    "name": "Jsihgq",
-    "roll_no": "CH24BTECH11043",
-    "email": "ch24btech11043@iith.ac.in",
-    "previous_mess": "MESS-B",
-    "current_mess": "MESS-A",
-    "mess_feedback": []
-},
-{
-    "name": "Mmilmj",
-    "roll_no": "CH24BTECH11044",
-    "email": "ch24btech11044@iith.ac.in",
-    "previous_mess": "MESS-B",
-    "current_mess": "MESS-B",
-    "mess_feedback": []
-},
-{
-    "name": "Xanbgl",
-    "roll_no": "CH24BTECH11045",
-    "email": "ch24btech11045@iith.ac.in",
-    "previous_mess": "MESS-A",
-    "current_mess": "MESS-A",
-    "mess_feedback": []
-},
-{
-    "name": "Pbjaui",
-    "roll_no": "CH24BTECH11046",
-    "email": "ch24btech11046@iith.ac.in",
-    "previous_mess": "MESS-A",
-    "current_mess": "MESS-A",
-    "mess_feedback": []
-},
-{
-    "name": "Ecnspm",
-    "roll_no": "CH24BTECH11047",
-    "email": "ch24btech11047@iith.ac.in",
-    "previous_mess": "MESS-B",
-    "current_mess": "MESS-A",
-    "mess_feedback": []
-},
-{
-    "name": "Vxftzs",
-    "roll_no": "CH24BTECH11048",
-    "email": "ch24btech11048@iith.ac.in",
-    "previous_mess": "MESS-B",
-    "current_mess": "MESS-A",
-    "mess_feedback": []
-},
-{
-    "name": "Qbyqzw",
-    "roll_no": "CH24BTECH11049",
-    "email": "ch24btech11049@iith.ac.in",
-    "previous_mess": "MESS-B",
-    "current_mess": "MESS-B",
-    "mess_feedback": []
-},
-{
-    "name": "Kcjsmj",
-    "roll_no": "CH24BTECH11050",
-    "email": "ch24btech11050@iith.ac.in",
-    "previous_mess": "MESS-B",
-    "current_mess": "MESS-B",
-    "mess_feedback": []
-},
-{
-    "name": "Belcho",
-    "roll_no": "CH24BTECH11051",
-    "email": "ch24btech11051@iith.ac.in",
-    "previous_mess": "MESS-B",
-    "current_mess": "MESS-A",
-    "mess_feedback": []
-},
-{
-    "name": "Kfybmj",
-    "roll_no": "CH24BTECH11052",
-    "email": "ch24btech11052@iith.ac.in",
-    "previous_mess": "MESS-A",
-    "current_mess": "MESS-A",
-    "mess_feedback": []
-},
-{
-    "name": "Qbdkcn",
-    "roll_no": "CH24BTECH11053",
-    "email": "ch24btech11053@iith.ac.in",
-    "previous_mess": "MESS-A",
-    "current_mess": "MESS-A",
-    "mess_feedback": []
-},
-{
-    "name": "Vijovu",
-    "roll_no": "CH24BTECH11054",
-    "email": "ch24btech11054@iith.ac.in",
-    "previous_mess": "MESS-A",
-    "current_mess": "MESS-B",
-    "mess_feedback": []
-},
-{
-    "name": "Flkuts",
-    "roll_no": "CH24BTECH11055",
-    "email": "ch24btech11055@iith.ac.in",
-    "previous_mess": "MESS-B",
-    "current_mess": "MESS-A",
-    "mess_feedback": []
-},
-{
-    "name": "Xygjfa",
-    "roll_no": "CH24BTECH11056",
-    "email": "ch24btech11056@iith.ac.in",
-    "previous_mess": "MESS-A",
-    "current_mess": "MESS-B",
-    "mess_feedback": []
-},
-{
-    "name": "Vvmfra",
-    "roll_no": "CH24BTECH11057",
-    "email": "ch24btech11057@iith.ac.in",
-    "previous_mess": "MESS-A",
-    "current_mess": "MESS-B",
-    "mess_feedback": []
-},
-{
-    "name": "Pbfdno",
-    "roll_no": "CH24BTECH11058",
-    "email": "ch24btech11058@iith.ac.in",
-    "previous_mess": "MESS-B",
-    "current_mess": "MESS-B",
-    "mess_feedback": []
-},
-{
-    "name": "Juluch",
-    "roll_no": "CH24BTECH11059",
-    "email": "ch24btech11059@iith.ac.in",
-    "previous_mess": "MESS-A",
-    "current_mess": "MESS-A",
-    "mess_feedback": []
-},
-{
-    "name": "Jserxo",
-    "roll_no": "CH24BTECH11060",
-    "email": "ch24btech11060@iith.ac.in",
-    "previous_mess": "MESS-B",
-    "current_mess": "MESS-B",
-    "mess_feedback": []
-},
-{
-    "name": "Ykbjrv",
-    "roll_no": "CH24BTECH11061",
-    "email": "ch24btech11061@iith.ac.in",
-    "previous_mess": "MESS-B",
-    "current_mess": "MESS-B",
-    "mess_feedback": []
-},
-{
-    "name": "Maguuy",
-    "roll_no": "CH24BTECH11062",
-    "email": "ch24btech11062@iith.ac.in",
-    "previous_mess": "MESS-A",
-    "current_mess": "MESS-B",
-    "mess_feedback": []
-},
-{
-    "name": "Judznc",
-    "roll_no": "CH24BTECH11063",
-    "email": "ch24btech11063@iith.ac.in",
-    "previous_mess": "MESS-B",
-    "current_mess": "MESS-B",
-    "mess_feedback": []
-},
-{
-    "name": "Dpbafx",
-    "roll_no": "CH24BTECH11064",
-    "email": "ch24btech11064@iith.ac.in",
-    "previous_mess": "MESS-A",
-    "current_mess": "MESS-B",
-    "mess_feedback": []
-}
+[
+    {
+        "name": "Ytagmz",
+        "roll_no": "CS24BTECH11001",
+        "email": "cs24btech11001@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Fouxdm",
+        "roll_no": "CS24BTECH11002",
+        "email": "cs24btech11002@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Trixxl",
+        "roll_no": "CS24BTECH11003",
+        "email": "cs24btech11003@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Izsrsu",
+        "roll_no": "CS24BTECH11004",
+        "email": "cs24btech11004@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Wqefcg",
+        "roll_no": "CS24BTECH11005",
+        "email": "cs24btech11005@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Jbfcqa",
+        "roll_no": "CS24BTECH11006",
+        "email": "cs24btech11006@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Fsaftn",
+        "roll_no": "CS24BTECH11007",
+        "email": "cs24btech11007@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Lrnbxd",
+        "roll_no": "CS24BTECH11008",
+        "email": "cs24btech11008@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Gpmkml",
+        "roll_no": "CS24BTECH11009",
+        "email": "cs24btech11009@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Xohzbs",
+        "roll_no": "CS24BTECH11010",
+        "email": "cs24btech11010@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Gzqrog",
+        "roll_no": "CS24BTECH11011",
+        "email": "cs24btech11011@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Exbtvj",
+        "roll_no": "CS24BTECH11012",
+        "email": "cs24btech11012@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Cyqntm",
+        "roll_no": "CS24BTECH11013",
+        "email": "cs24btech11013@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Onzhvh",
+        "roll_no": "CS24BTECH11014",
+        "email": "cs24btech11014@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Ivykqj",
+        "roll_no": "CS24BTECH11015",
+        "email": "cs24btech11015@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Zygwhm",
+        "roll_no": "CS24BTECH11016",
+        "email": "cs24btech11016@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Mpntcb",
+        "roll_no": "CS24BTECH11017",
+        "email": "cs24btech11017@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Rjuqqh",
+        "roll_no": "CS24BTECH11018",
+        "email": "cs24btech11018@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Jywkan",
+        "roll_no": "CS24BTECH11019",
+        "email": "cs24btech11019@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Riibbd",
+        "roll_no": "CS24BTECH11020",
+        "email": "cs24btech11020@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Exxijz",
+        "roll_no": "CS24BTECH11021",
+        "email": "cs24btech11021@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Wbbdvs",
+        "roll_no": "CS24BTECH11022",
+        "email": "cs24btech11022@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Extaaf",
+        "roll_no": "CS24BTECH11023",
+        "email": "cs24btech11023@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Ymzzhl",
+        "roll_no": "CS24BTECH11024",
+        "email": "cs24btech11024@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Ejdwao",
+        "roll_no": "CS24BTECH11025",
+        "email": "cs24btech11025@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Ldqagr",
+        "roll_no": "CS24BTECH11026",
+        "email": "cs24btech11026@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Ajtytg",
+        "roll_no": "CS24BTECH11027",
+        "email": "cs24btech11027@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Vqmyrc",
+        "roll_no": "CS24BTECH11028",
+        "email": "cs24btech11028@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Cwncbr",
+        "roll_no": "CS24BTECH11029",
+        "email": "cs24btech11029@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Uhpeze",
+        "roll_no": "CS24BTECH11030",
+        "email": "cs24btech11030@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Syjmug",
+        "roll_no": "CS24BTECH11031",
+        "email": "cs24btech11031@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Fhwace",
+        "roll_no": "CS24BTECH11032",
+        "email": "cs24btech11032@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Ufgssr",
+        "roll_no": "CS24BTECH11033",
+        "email": "cs24btech11033@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Vzorzv",
+        "roll_no": "CS24BTECH11034",
+        "email": "cs24btech11034@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Xxadgd",
+        "roll_no": "CS24BTECH11035",
+        "email": "cs24btech11035@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Pdfvwu",
+        "roll_no": "CS24BTECH11036",
+        "email": "cs24btech11036@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Typwkg",
+        "roll_no": "CS24BTECH11037",
+        "email": "cs24btech11037@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Khiyrk",
+        "roll_no": "CS24BTECH11038",
+        "email": "cs24btech11038@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Nzlrqb",
+        "roll_no": "CS24BTECH11039",
+        "email": "cs24btech11039@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Iqakoz",
+        "roll_no": "CS24BTECH11040",
+        "email": "cs24btech11040@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Qstcne",
+        "roll_no": "CS24BTECH11041",
+        "email": "cs24btech11041@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Akwubr",
+        "roll_no": "CS24BTECH11042",
+        "email": "cs24btech11042@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Ailsig",
+        "roll_no": "CS24BTECH11043",
+        "email": "cs24btech11043@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Wiajdt",
+        "roll_no": "CS24BTECH11044",
+        "email": "cs24btech11044@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Mnmftm",
+        "roll_no": "CS24BTECH11045",
+        "email": "cs24btech11045@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Iqrdcj",
+        "roll_no": "CS24BTECH11046",
+        "email": "cs24btech11046@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Dmnawg",
+        "roll_no": "CS24BTECH11047",
+        "email": "cs24btech11047@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Onlbef",
+        "roll_no": "CS24BTECH11048",
+        "email": "cs24btech11048@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Vckmox",
+        "roll_no": "CS24BTECH11049",
+        "email": "cs24btech11049@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Ifeain",
+        "roll_no": "CS24BTECH11050",
+        "email": "cs24btech11050@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Lkkvmo",
+        "roll_no": "CS24BTECH11051",
+        "email": "cs24btech11051@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Mdcrwe",
+        "roll_no": "CS24BTECH11052",
+        "email": "cs24btech11052@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Ctmpde",
+        "roll_no": "CS24BTECH11053",
+        "email": "cs24btech11053@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Oqxvgh",
+        "roll_no": "CS24BTECH11054",
+        "email": "cs24btech11054@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Ovnwgc",
+        "roll_no": "CS24BTECH11055",
+        "email": "cs24btech11055@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Nagwmv",
+        "roll_no": "CS24BTECH11056",
+        "email": "cs24btech11056@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Vqcaep",
+        "roll_no": "CS24BTECH11057",
+        "email": "cs24btech11057@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Mrekzc",
+        "roll_no": "CS24BTECH11058",
+        "email": "cs24btech11058@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Cxkfpa",
+        "roll_no": "CS24BTECH11059",
+        "email": "cs24btech11059@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Mzpkpu",
+        "roll_no": "CS24BTECH11060",
+        "email": "cs24btech11060@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Qwnlmt",
+        "roll_no": "CS24BTECH11061",
+        "email": "cs24btech11061@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Qxaurf",
+        "roll_no": "CS24BTECH11062",
+        "email": "cs24btech11062@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Djfacf",
+        "roll_no": "CS24BTECH11063",
+        "email": "cs24btech11063@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Kyxvnp",
+        "roll_no": "CS24BTECH11064",
+        "email": "cs24btech11064@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Ksxvlu",
+        "roll_no": "CS24BTECH11065",
+        "email": "cs24btech11065@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Frogdj",
+        "roll_no": "AI24BTECH11001",
+        "email": "ai24btech11001@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Vathdz",
+        "roll_no": "AI24BTECH11002",
+        "email": "ai24btech11002@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Gafslm",
+        "roll_no": "AI24BTECH11003",
+        "email": "ai24btech11003@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Tmbpoy",
+        "roll_no": "AI24BTECH11004",
+        "email": "ai24btech11004@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Cgxvse",
+        "roll_no": "AI24BTECH11005",
+        "email": "ai24btech11005@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Neieyc",
+        "roll_no": "AI24BTECH11006",
+        "email": "ai24btech11006@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Kppose",
+        "roll_no": "AI24BTECH11007",
+        "email": "ai24btech11007@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Rvageo",
+        "roll_no": "AI24BTECH11008",
+        "email": "ai24btech11008@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Vteofg",
+        "roll_no": "AI24BTECH11009",
+        "email": "ai24btech11009@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Vuimfd",
+        "roll_no": "AI24BTECH11010",
+        "email": "ai24btech11010@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Tdfcvd",
+        "roll_no": "AI24BTECH11011",
+        "email": "ai24btech11011@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Sogdhr",
+        "roll_no": "AI24BTECH11012",
+        "email": "ai24btech11012@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Mkadum",
+        "roll_no": "AI24BTECH11013",
+        "email": "ai24btech11013@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Mabfsh",
+        "roll_no": "AI24BTECH11014",
+        "email": "ai24btech11014@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Odigzm",
+        "roll_no": "AI24BTECH11015",
+        "email": "ai24btech11015@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Bziyrj",
+        "roll_no": "AI24BTECH11016",
+        "email": "ai24btech11016@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Jheesb",
+        "roll_no": "AI24BTECH11017",
+        "email": "ai24btech11017@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Leminx",
+        "roll_no": "AI24BTECH11018",
+        "email": "ai24btech11018@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Jbtkjf",
+        "roll_no": "AI24BTECH11019",
+        "email": "ai24btech11019@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Xyxdpo",
+        "roll_no": "AI24BTECH11020",
+        "email": "ai24btech11020@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Oaxqre",
+        "roll_no": "AI24BTECH11021",
+        "email": "ai24btech11021@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Ywdhkt",
+        "roll_no": "AI24BTECH11022",
+        "email": "ai24btech11022@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Hlvxtz",
+        "roll_no": "AI24BTECH11023",
+        "email": "ai24btech11023@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Nkvreb",
+        "roll_no": "AI24BTECH11024",
+        "email": "ai24btech11024@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Jwogpl",
+        "roll_no": "AI24BTECH11025",
+        "email": "ai24btech11025@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Vplxku",
+        "roll_no": "AI24BTECH11026",
+        "email": "ai24btech11026@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Fvxsuw",
+        "roll_no": "AI24BTECH11027",
+        "email": "ai24btech11027@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Nmenei",
+        "roll_no": "AI24BTECH11028",
+        "email": "ai24btech11028@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Truckj",
+        "roll_no": "AI24BTECH11029",
+        "email": "ai24btech11029@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Lctazo",
+        "roll_no": "AI24BTECH11030",
+        "email": "ai24btech11030@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Ysbudg",
+        "roll_no": "AI24BTECH11031",
+        "email": "ai24btech11031@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Mylamf",
+        "roll_no": "AI24BTECH11032",
+        "email": "ai24btech11032@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Qbyvqd",
+        "roll_no": "AI24BTECH11033",
+        "email": "ai24btech11033@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Quvgbb",
+        "roll_no": "AI24BTECH11034",
+        "email": "ai24btech11034@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Vxbcox",
+        "roll_no": "AI24BTECH11035",
+        "email": "ai24btech11035@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Bahvqo",
+        "roll_no": "AI24BTECH11036",
+        "email": "ai24btech11036@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Wzftto",
+        "roll_no": "AI24BTECH11037",
+        "email": "ai24btech11037@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Rlxvcv",
+        "roll_no": "AI24BTECH11038",
+        "email": "ai24btech11038@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Awnwql",
+        "roll_no": "AI24BTECH11039",
+        "email": "ai24btech11039@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Byxbqd",
+        "roll_no": "AI24BTECH11040",
+        "email": "ai24btech11040@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Ifhhkg",
+        "roll_no": "AI24BTECH11041",
+        "email": "ai24btech11041@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Qqdkgy",
+        "roll_no": "AI24BTECH11042",
+        "email": "ai24btech11042@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Nnykot",
+        "roll_no": "AI24BTECH11043",
+        "email": "ai24btech11043@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Dwdtql",
+        "roll_no": "AI24BTECH11044",
+        "email": "ai24btech11044@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Dgxxzi",
+        "roll_no": "AI24BTECH11045",
+        "email": "ai24btech11045@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Zsisym",
+        "roll_no": "AI24BTECH11046",
+        "email": "ai24btech11046@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Cbbbid",
+        "roll_no": "AI24BTECH11047",
+        "email": "ai24btech11047@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Ixzttw",
+        "roll_no": "AI24BTECH11048",
+        "email": "ai24btech11048@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Wyrzty",
+        "roll_no": "AI24BTECH11049",
+        "email": "ai24btech11049@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Ytgozn",
+        "roll_no": "AI24BTECH11050",
+        "email": "ai24btech11050@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Zicohr",
+        "roll_no": "AI24BTECH11051",
+        "email": "ai24btech11051@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Hwwoxh",
+        "roll_no": "AI24BTECH11052",
+        "email": "ai24btech11052@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Imghpy",
+        "roll_no": "AI24BTECH11053",
+        "email": "ai24btech11053@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Zeuids",
+        "roll_no": "AI24BTECH11054",
+        "email": "ai24btech11054@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Ljampf",
+        "roll_no": "AI24BTECH11055",
+        "email": "ai24btech11055@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Shmxie",
+        "roll_no": "AI24BTECH11056",
+        "email": "ai24btech11056@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Uddnoj",
+        "roll_no": "AI24BTECH11057",
+        "email": "ai24btech11057@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Oijexh",
+        "roll_no": "AI24BTECH11058",
+        "email": "ai24btech11058@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Xhwryu",
+        "roll_no": "AI24BTECH11059",
+        "email": "ai24btech11059@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Vwvbdi",
+        "roll_no": "AI24BTECH11060",
+        "email": "ai24btech11060@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Jkfqnc",
+        "roll_no": "AI24BTECH11061",
+        "email": "ai24btech11061@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Lhqibi",
+        "roll_no": "AI24BTECH11062",
+        "email": "ai24btech11062@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Addeyl",
+        "roll_no": "AI24BTECH11063",
+        "email": "ai24btech11063@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Vhcvnm",
+        "roll_no": "AI24BTECH11064",
+        "email": "ai24btech11064@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Whevdt",
+        "roll_no": "CO24BTECH11001",
+        "email": "co24btech11001@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Sczvoq",
+        "roll_no": "CO24BTECH11002",
+        "email": "co24btech11002@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Ywrebv",
+        "roll_no": "CO24BTECH11003",
+        "email": "co24btech11003@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Xpkhwl",
+        "roll_no": "CO24BTECH11004",
+        "email": "co24btech11004@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Zazxov",
+        "roll_no": "CO24BTECH11005",
+        "email": "co24btech11005@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Fptqxg",
+        "roll_no": "CO24BTECH11006",
+        "email": "co24btech11006@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Onmykt",
+        "roll_no": "CO24BTECH11007",
+        "email": "co24btech11007@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Hjdhyb",
+        "roll_no": "CO24BTECH11008",
+        "email": "co24btech11008@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Dlmado",
+        "roll_no": "CO24BTECH11009",
+        "email": "co24btech11009@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Yfpdqz",
+        "roll_no": "CO24BTECH11010",
+        "email": "co24btech11010@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Rgoznb",
+        "roll_no": "CO24BTECH11011",
+        "email": "co24btech11011@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Pqgcsm",
+        "roll_no": "CO24BTECH11012",
+        "email": "co24btech11012@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Qggnwi",
+        "roll_no": "CO24BTECH11013",
+        "email": "co24btech11013@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Jzwgzk",
+        "roll_no": "CO24BTECH11014",
+        "email": "co24btech11014@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Xrrwhu",
+        "roll_no": "CO24BTECH11015",
+        "email": "co24btech11015@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Jdbilf",
+        "roll_no": "CO24BTECH11016",
+        "email": "co24btech11016@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Icmlsv",
+        "roll_no": "CO24BTECH11017",
+        "email": "co24btech11017@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Yckjdk",
+        "roll_no": "CO24BTECH11018",
+        "email": "co24btech11018@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Tigsuq",
+        "roll_no": "CO24BTECH11019",
+        "email": "co24btech11019@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Iboijg",
+        "roll_no": "CO24BTECH11020",
+        "email": "co24btech11020@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Bafmoo",
+        "roll_no": "CO24BTECH11021",
+        "email": "co24btech11021@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Gafciq",
+        "roll_no": "CO24BTECH11022",
+        "email": "co24btech11022@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Ambtxu",
+        "roll_no": "CO24BTECH11023",
+        "email": "co24btech11023@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Alvnaj",
+        "roll_no": "CO24BTECH11024",
+        "email": "co24btech11024@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Edehyp",
+        "roll_no": "CO24BTECH11025",
+        "email": "co24btech11025@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Zbfzuh",
+        "roll_no": "CO24BTECH11026",
+        "email": "co24btech11026@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Hwuwct",
+        "roll_no": "CO24BTECH11027",
+        "email": "co24btech11027@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Lpkvjn",
+        "roll_no": "CO24BTECH11028",
+        "email": "co24btech11028@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Vofcoo",
+        "roll_no": "CO24BTECH11029",
+        "email": "co24btech11029@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Obwowr",
+        "roll_no": "CO24BTECH11030",
+        "email": "co24btech11030@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Wevspv",
+        "roll_no": "CO24BTECH11031",
+        "email": "co24btech11031@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Muiuym",
+        "roll_no": "CO24BTECH11032",
+        "email": "co24btech11032@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Ehgfzl",
+        "roll_no": "CO24BTECH11033",
+        "email": "co24btech11033@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Iryzac",
+        "roll_no": "CO24BTECH11034",
+        "email": "co24btech11034@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Yzaubk",
+        "roll_no": "CO24BTECH11035",
+        "email": "co24btech11035@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Sycxxo",
+        "roll_no": "CO24BTECH11036",
+        "email": "co24btech11036@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Vwurnc",
+        "roll_no": "CO24BTECH11037",
+        "email": "co24btech11037@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Dvovfy",
+        "roll_no": "CO24BTECH11038",
+        "email": "co24btech11038@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Zneiof",
+        "roll_no": "CO24BTECH11039",
+        "email": "co24btech11039@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Dqecza",
+        "roll_no": "CO24BTECH11040",
+        "email": "co24btech11040@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Yzqajz",
+        "roll_no": "CO24BTECH11041",
+        "email": "co24btech11041@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Kdvqto",
+        "roll_no": "CO24BTECH11042",
+        "email": "co24btech11042@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Pvtlit",
+        "roll_no": "CO24BTECH11043",
+        "email": "co24btech11043@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Byqihc",
+        "roll_no": "CO24BTECH11044",
+        "email": "co24btech11044@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Kevavv",
+        "roll_no": "CO24BTECH11045",
+        "email": "co24btech11045@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Ajyosl",
+        "roll_no": "CO24BTECH11046",
+        "email": "co24btech11046@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Gevvky",
+        "roll_no": "CO24BTECH11047",
+        "email": "co24btech11047@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Deosfb",
+        "roll_no": "CO24BTECH11048",
+        "email": "co24btech11048@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Xcaene",
+        "roll_no": "CO24BTECH11049",
+        "email": "co24btech11049@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Rdniym",
+        "roll_no": "CO24BTECH11050",
+        "email": "co24btech11050@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Degljy",
+        "roll_no": "CO24BTECH11051",
+        "email": "co24btech11051@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Ypujqw",
+        "roll_no": "CO24BTECH11052",
+        "email": "co24btech11052@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Ninyqy",
+        "roll_no": "CO24BTECH11053",
+        "email": "co24btech11053@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Etfkrb",
+        "roll_no": "CO24BTECH11054",
+        "email": "co24btech11054@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Kjwsyu",
+        "roll_no": "CO24BTECH11055",
+        "email": "co24btech11055@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Gslplh",
+        "roll_no": "CO24BTECH11056",
+        "email": "co24btech11056@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Efegjj",
+        "roll_no": "CO24BTECH11057",
+        "email": "co24btech11057@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Igklij",
+        "roll_no": "CO24BTECH11058",
+        "email": "co24btech11058@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Yavisa",
+        "roll_no": "CO24BTECH11059",
+        "email": "co24btech11059@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Shfadw",
+        "roll_no": "CO24BTECH11060",
+        "email": "co24btech11060@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Huhxfk",
+        "roll_no": "CO24BTECH11061",
+        "email": "co24btech11061@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Tlgxbp",
+        "roll_no": "CO24BTECH11062",
+        "email": "co24btech11062@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Mswdlg",
+        "roll_no": "CO24BTECH11063",
+        "email": "co24btech11063@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Yinogk",
+        "roll_no": "CO24BTECH11064",
+        "email": "co24btech11064@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Gpgvow",
+        "roll_no": "ME24BTECH11001",
+        "email": "me24btech11001@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Wmpcdi",
+        "roll_no": "ME24BTECH11002",
+        "email": "me24btech11002@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Kgenim",
+        "roll_no": "ME24BTECH11003",
+        "email": "me24btech11003@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Fehpws",
+        "roll_no": "ME24BTECH11004",
+        "email": "me24btech11004@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Jxcmin",
+        "roll_no": "ME24BTECH11005",
+        "email": "me24btech11005@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Gicpha",
+        "roll_no": "ME24BTECH11006",
+        "email": "me24btech11006@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Soaucj",
+        "roll_no": "ME24BTECH11007",
+        "email": "me24btech11007@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Zceeqr",
+        "roll_no": "ME24BTECH11008",
+        "email": "me24btech11008@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Csbqex",
+        "roll_no": "ME24BTECH11009",
+        "email": "me24btech11009@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Gexvnj",
+        "roll_no": "ME24BTECH11010",
+        "email": "me24btech11010@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Eaayud",
+        "roll_no": "ME24BTECH11011",
+        "email": "me24btech11011@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Yjmwua",
+        "roll_no": "ME24BTECH11012",
+        "email": "me24btech11012@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Amaryi",
+        "roll_no": "ME24BTECH11013",
+        "email": "me24btech11013@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Obkszr",
+        "roll_no": "ME24BTECH11014",
+        "email": "me24btech11014@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Vbzfmz",
+        "roll_no": "ME24BTECH11015",
+        "email": "me24btech11015@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Vzokjj",
+        "roll_no": "ME24BTECH11016",
+        "email": "me24btech11016@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Wxelhl",
+        "roll_no": "ME24BTECH11017",
+        "email": "me24btech11017@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Dllzez",
+        "roll_no": "ME24BTECH11018",
+        "email": "me24btech11018@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Fecwfq",
+        "roll_no": "ME24BTECH11019",
+        "email": "me24btech11019@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Kwybsd",
+        "roll_no": "ME24BTECH11020",
+        "email": "me24btech11020@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Iojkum",
+        "roll_no": "ME24BTECH11021",
+        "email": "me24btech11021@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Rcgumq",
+        "roll_no": "ME24BTECH11022",
+        "email": "me24btech11022@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Gdttac",
+        "roll_no": "ME24BTECH11023",
+        "email": "me24btech11023@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Mbqdse",
+        "roll_no": "ME24BTECH11024",
+        "email": "me24btech11024@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Zhwyxv",
+        "roll_no": "ME24BTECH11025",
+        "email": "me24btech11025@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Nmrprd",
+        "roll_no": "ME24BTECH11026",
+        "email": "me24btech11026@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Ocoxtl",
+        "roll_no": "ME24BTECH11027",
+        "email": "me24btech11027@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Fqjdyf",
+        "roll_no": "ME24BTECH11028",
+        "email": "me24btech11028@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Talhwr",
+        "roll_no": "ME24BTECH11029",
+        "email": "me24btech11029@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Vskeqq",
+        "roll_no": "ME24BTECH11030",
+        "email": "me24btech11030@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Tcsris",
+        "roll_no": "ME24BTECH11031",
+        "email": "me24btech11031@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Wauvcu",
+        "roll_no": "ME24BTECH11032",
+        "email": "me24btech11032@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Eborhm",
+        "roll_no": "ME24BTECH11033",
+        "email": "me24btech11033@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Knozct",
+        "roll_no": "ME24BTECH11034",
+        "email": "me24btech11034@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Qptqzs",
+        "roll_no": "ME24BTECH11035",
+        "email": "me24btech11035@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Szrhkh",
+        "roll_no": "ME24BTECH11036",
+        "email": "me24btech11036@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Sxyivy",
+        "roll_no": "ME24BTECH11037",
+        "email": "me24btech11037@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Mdnkja",
+        "roll_no": "ME24BTECH11038",
+        "email": "me24btech11038@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Ijxgcr",
+        "roll_no": "ME24BTECH11039",
+        "email": "me24btech11039@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Pfljad",
+        "roll_no": "ME24BTECH11040",
+        "email": "me24btech11040@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Jnfzhu",
+        "roll_no": "ME24BTECH11041",
+        "email": "me24btech11041@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Hdfokm",
+        "roll_no": "ME24BTECH11042",
+        "email": "me24btech11042@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Ffkiav",
+        "roll_no": "ME24BTECH11043",
+        "email": "me24btech11043@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Wyxuey",
+        "roll_no": "ME24BTECH11044",
+        "email": "me24btech11044@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Vwofro",
+        "roll_no": "ME24BTECH11045",
+        "email": "me24btech11045@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Jjhiwc",
+        "roll_no": "ME24BTECH11046",
+        "email": "me24btech11046@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Nzxddp",
+        "roll_no": "ME24BTECH11047",
+        "email": "me24btech11047@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Bfzsos",
+        "roll_no": "ME24BTECH11048",
+        "email": "me24btech11048@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Smbgul",
+        "roll_no": "ME24BTECH11049",
+        "email": "me24btech11049@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Xucsio",
+        "roll_no": "ME24BTECH11050",
+        "email": "me24btech11050@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Nyzefn",
+        "roll_no": "ME24BTECH11051",
+        "email": "me24btech11051@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Eqwdga",
+        "roll_no": "ME24BTECH11052",
+        "email": "me24btech11052@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Moaiao",
+        "roll_no": "ME24BTECH11053",
+        "email": "me24btech11053@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Dslgpi",
+        "roll_no": "ME24BTECH11054",
+        "email": "me24btech11054@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Rdixqh",
+        "roll_no": "ME24BTECH11055",
+        "email": "me24btech11055@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Vbmgxn",
+        "roll_no": "ME24BTECH11056",
+        "email": "me24btech11056@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Netggn",
+        "roll_no": "ME24BTECH11057",
+        "email": "me24btech11057@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Yptjzt",
+        "roll_no": "ME24BTECH11058",
+        "email": "me24btech11058@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Ieigaq",
+        "roll_no": "ME24BTECH11059",
+        "email": "me24btech11059@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Pfcuzr",
+        "roll_no": "ME24BTECH11060",
+        "email": "me24btech11060@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Zwxnnv",
+        "roll_no": "ME24BTECH11061",
+        "email": "me24btech11061@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Vgufoa",
+        "roll_no": "ME24BTECH11062",
+        "email": "me24btech11062@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Jabxfn",
+        "roll_no": "ME24BTECH11063",
+        "email": "me24btech11063@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Arpxks",
+        "roll_no": "ME24BTECH11064",
+        "email": "me24btech11064@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Zqbugz",
+        "roll_no": "EE24BTECH11001",
+        "email": "ee24btech11001@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Dhplgr",
+        "roll_no": "EE24BTECH11002",
+        "email": "ee24btech11002@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Kgnisg",
+        "roll_no": "EE24BTECH11003",
+        "email": "ee24btech11003@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Oxsnkq",
+        "roll_no": "EE24BTECH11004",
+        "email": "ee24btech11004@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Ywjzzq",
+        "roll_no": "EE24BTECH11005",
+        "email": "ee24btech11005@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Ucelsd",
+        "roll_no": "EE24BTECH11006",
+        "email": "ee24btech11006@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Pbqmzp",
+        "roll_no": "EE24BTECH11007",
+        "email": "ee24btech11007@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Ggbbnn",
+        "roll_no": "EE24BTECH11008",
+        "email": "ee24btech11008@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Kpawwg",
+        "roll_no": "EE24BTECH11009",
+        "email": "ee24btech11009@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Bhkghh",
+        "roll_no": "EE24BTECH11010",
+        "email": "ee24btech11010@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Kloxbs",
+        "roll_no": "EE24BTECH11011",
+        "email": "ee24btech11011@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Konsoz",
+        "roll_no": "EE24BTECH11012",
+        "email": "ee24btech11012@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Tycljs",
+        "roll_no": "EE24BTECH11013",
+        "email": "ee24btech11013@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Dibmgf",
+        "roll_no": "EE24BTECH11014",
+        "email": "ee24btech11014@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Ttrpon",
+        "roll_no": "EE24BTECH11015",
+        "email": "ee24btech11015@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Nnijfv",
+        "roll_no": "EE24BTECH11016",
+        "email": "ee24btech11016@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Mmkhyw",
+        "roll_no": "EE24BTECH11017",
+        "email": "ee24btech11017@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Vahsus",
+        "roll_no": "EE24BTECH11018",
+        "email": "ee24btech11018@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Mpwnpq",
+        "roll_no": "EE24BTECH11019",
+        "email": "ee24btech11019@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Opycbj",
+        "roll_no": "EE24BTECH11020",
+        "email": "ee24btech11020@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Xbjmkj",
+        "roll_no": "EE24BTECH11021",
+        "email": "ee24btech11021@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Cacuvj",
+        "roll_no": "EE24BTECH11022",
+        "email": "ee24btech11022@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Hkgdtc",
+        "roll_no": "EE24BTECH11023",
+        "email": "ee24btech11023@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Emxxqu",
+        "roll_no": "EE24BTECH11024",
+        "email": "ee24btech11024@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Wnxbja",
+        "roll_no": "EE24BTECH11025",
+        "email": "ee24btech11025@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Qztecw",
+        "roll_no": "EE24BTECH11026",
+        "email": "ee24btech11026@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Zskqkw",
+        "roll_no": "EE24BTECH11027",
+        "email": "ee24btech11027@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Zsizup",
+        "roll_no": "EE24BTECH11028",
+        "email": "ee24btech11028@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Pzwovf",
+        "roll_no": "EE24BTECH11029",
+        "email": "ee24btech11029@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Malsuj",
+        "roll_no": "EE24BTECH11030",
+        "email": "ee24btech11030@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Uuzmin",
+        "roll_no": "EE24BTECH11031",
+        "email": "ee24btech11031@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Vmlnce",
+        "roll_no": "EE24BTECH11032",
+        "email": "ee24btech11032@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Otcnkx",
+        "roll_no": "EE24BTECH11033",
+        "email": "ee24btech11033@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Kikqxk",
+        "roll_no": "EE24BTECH11034",
+        "email": "ee24btech11034@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Bildhz",
+        "roll_no": "EE24BTECH11035",
+        "email": "ee24btech11035@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Rzgqfd",
+        "roll_no": "EE24BTECH11036",
+        "email": "ee24btech11036@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Ngovqo",
+        "roll_no": "EE24BTECH11037",
+        "email": "ee24btech11037@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Pmpgrf",
+        "roll_no": "EE24BTECH11038",
+        "email": "ee24btech11038@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Vyvful",
+        "roll_no": "EE24BTECH11039",
+        "email": "ee24btech11039@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Bpidny",
+        "roll_no": "EE24BTECH11040",
+        "email": "ee24btech11040@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Uwffkb",
+        "roll_no": "EE24BTECH11041",
+        "email": "ee24btech11041@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Hplpjt",
+        "roll_no": "EE24BTECH11042",
+        "email": "ee24btech11042@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Qmpwpg",
+        "roll_no": "EE24BTECH11043",
+        "email": "ee24btech11043@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Vttpup",
+        "roll_no": "EE24BTECH11044",
+        "email": "ee24btech11044@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Xtuish",
+        "roll_no": "EE24BTECH11045",
+        "email": "ee24btech11045@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Jqpncw",
+        "roll_no": "EE24BTECH11046",
+        "email": "ee24btech11046@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Mdxmjm",
+        "roll_no": "EE24BTECH11047",
+        "email": "ee24btech11047@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Iebfdv",
+        "roll_no": "EE24BTECH11048",
+        "email": "ee24btech11048@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Saeocp",
+        "roll_no": "EE24BTECH11049",
+        "email": "ee24btech11049@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Yaftoh",
+        "roll_no": "EE24BTECH11050",
+        "email": "ee24btech11050@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Tmcanb",
+        "roll_no": "EE24BTECH11051",
+        "email": "ee24btech11051@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Tpfvas",
+        "roll_no": "EE24BTECH11052",
+        "email": "ee24btech11052@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Wbrznb",
+        "roll_no": "EE24BTECH11053",
+        "email": "ee24btech11053@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Ocpxcj",
+        "roll_no": "EE24BTECH11054",
+        "email": "ee24btech11054@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Rrwbiz",
+        "roll_no": "EE24BTECH11055",
+        "email": "ee24btech11055@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Nkwexi",
+        "roll_no": "EE24BTECH11056",
+        "email": "ee24btech11056@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Fuazrt",
+        "roll_no": "EE24BTECH11057",
+        "email": "ee24btech11057@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Smyvyd",
+        "roll_no": "EE24BTECH11058",
+        "email": "ee24btech11058@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Udrzki",
+        "roll_no": "EE24BTECH11059",
+        "email": "ee24btech11059@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Mmawrp",
+        "roll_no": "EE24BTECH11060",
+        "email": "ee24btech11060@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Irllkt",
+        "roll_no": "EE24BTECH11061",
+        "email": "ee24btech11061@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Ktdbgb",
+        "roll_no": "EE24BTECH11062",
+        "email": "ee24btech11062@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Rtzfds",
+        "roll_no": "EE24BTECH11063",
+        "email": "ee24btech11063@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Axfdpo",
+        "roll_no": "EE24BTECH11064",
+        "email": "ee24btech11064@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Bdpgow",
+        "roll_no": "IC24BTECH11001",
+        "email": "ic24btech11001@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Mcrudp",
+        "roll_no": "IC24BTECH11002",
+        "email": "ic24btech11002@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Fzdrid",
+        "roll_no": "IC24BTECH11003",
+        "email": "ic24btech11003@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Dgkxjm",
+        "roll_no": "IC24BTECH11004",
+        "email": "ic24btech11004@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Hnjuss",
+        "roll_no": "IC24BTECH11005",
+        "email": "ic24btech11005@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Xdbzqe",
+        "roll_no": "IC24BTECH11006",
+        "email": "ic24btech11006@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Ilnzoo",
+        "roll_no": "IC24BTECH11007",
+        "email": "ic24btech11007@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Ouusbg",
+        "roll_no": "IC24BTECH11008",
+        "email": "ic24btech11008@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Uhwydy",
+        "roll_no": "IC24BTECH11009",
+        "email": "ic24btech11009@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Cjezsq",
+        "roll_no": "IC24BTECH11010",
+        "email": "ic24btech11010@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Nirbaz",
+        "roll_no": "IC24BTECH11011",
+        "email": "ic24btech11011@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Kfmqcl",
+        "roll_no": "IC24BTECH11012",
+        "email": "ic24btech11012@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Xzqktj",
+        "roll_no": "IC24BTECH11013",
+        "email": "ic24btech11013@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Lflyhi",
+        "roll_no": "IC24BTECH11014",
+        "email": "ic24btech11014@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Mowpgp",
+        "roll_no": "IC24BTECH11015",
+        "email": "ic24btech11015@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Momisp",
+        "roll_no": "IC24BTECH11016",
+        "email": "ic24btech11016@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Mxeoaj",
+        "roll_no": "IC24BTECH11017",
+        "email": "ic24btech11017@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Kklixf",
+        "roll_no": "IC24BTECH11018",
+        "email": "ic24btech11018@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Gutbkn",
+        "roll_no": "IC24BTECH11019",
+        "email": "ic24btech11019@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Gkrcgl",
+        "roll_no": "IC24BTECH11020",
+        "email": "ic24btech11020@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Nbdtet",
+        "roll_no": "IC24BTECH11021",
+        "email": "ic24btech11021@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Xngurd",
+        "roll_no": "IC24BTECH11022",
+        "email": "ic24btech11022@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Hxshvi",
+        "roll_no": "IC24BTECH11023",
+        "email": "ic24btech11023@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Vcdxqa",
+        "roll_no": "IC24BTECH11024",
+        "email": "ic24btech11024@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Nulwrh",
+        "roll_no": "IC24BTECH11025",
+        "email": "ic24btech11025@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Bfxytk",
+        "roll_no": "IC24BTECH11026",
+        "email": "ic24btech11026@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Vkaqna",
+        "roll_no": "IC24BTECH11027",
+        "email": "ic24btech11027@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Spqtqv",
+        "roll_no": "IC24BTECH11028",
+        "email": "ic24btech11028@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Mhzixi",
+        "roll_no": "IC24BTECH11029",
+        "email": "ic24btech11029@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Ecdhgn",
+        "roll_no": "IC24BTECH11030",
+        "email": "ic24btech11030@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Okdurq",
+        "roll_no": "IC24BTECH11031",
+        "email": "ic24btech11031@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Enjauf",
+        "roll_no": "IC24BTECH11032",
+        "email": "ic24btech11032@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Irohmv",
+        "roll_no": "IC24BTECH11033",
+        "email": "ic24btech11033@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Mdmimg",
+        "roll_no": "IC24BTECH11034",
+        "email": "ic24btech11034@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Gwzslb",
+        "roll_no": "IC24BTECH11035",
+        "email": "ic24btech11035@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Skpjwf",
+        "roll_no": "IC24BTECH11036",
+        "email": "ic24btech11036@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Rkuvpf",
+        "roll_no": "IC24BTECH11037",
+        "email": "ic24btech11037@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Qtmzkl",
+        "roll_no": "IC24BTECH11038",
+        "email": "ic24btech11038@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Myavbd",
+        "roll_no": "IC24BTECH11039",
+        "email": "ic24btech11039@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Ujhurh",
+        "roll_no": "IC24BTECH11040",
+        "email": "ic24btech11040@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Puxiuu",
+        "roll_no": "IC24BTECH11041",
+        "email": "ic24btech11041@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Rwnqsh",
+        "roll_no": "IC24BTECH11042",
+        "email": "ic24btech11042@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Rxqsqb",
+        "roll_no": "IC24BTECH11043",
+        "email": "ic24btech11043@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Ywvjjk",
+        "roll_no": "IC24BTECH11044",
+        "email": "ic24btech11044@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Shptak",
+        "roll_no": "IC24BTECH11045",
+        "email": "ic24btech11045@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Tklftw",
+        "roll_no": "IC24BTECH11046",
+        "email": "ic24btech11046@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Jkjdds",
+        "roll_no": "IC24BTECH11047",
+        "email": "ic24btech11047@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Yvtwov",
+        "roll_no": "IC24BTECH11048",
+        "email": "ic24btech11048@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Uevvyv",
+        "roll_no": "IC24BTECH11049",
+        "email": "ic24btech11049@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Pjjqvo",
+        "roll_no": "IC24BTECH11050",
+        "email": "ic24btech11050@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Dymbav",
+        "roll_no": "IC24BTECH11051",
+        "email": "ic24btech11051@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Helaja",
+        "roll_no": "IC24BTECH11052",
+        "email": "ic24btech11052@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Lpjihn",
+        "roll_no": "IC24BTECH11053",
+        "email": "ic24btech11053@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Uqsuwj",
+        "roll_no": "IC24BTECH11054",
+        "email": "ic24btech11054@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Wkmsyg",
+        "roll_no": "IC24BTECH11055",
+        "email": "ic24btech11055@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Lifccu",
+        "roll_no": "IC24BTECH11056",
+        "email": "ic24btech11056@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Vacwph",
+        "roll_no": "IC24BTECH11057",
+        "email": "ic24btech11057@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Dcwshz",
+        "roll_no": "IC24BTECH11058",
+        "email": "ic24btech11058@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Pgnaaz",
+        "roll_no": "IC24BTECH11059",
+        "email": "ic24btech11059@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Brcbjc",
+        "roll_no": "IC24BTECH11060",
+        "email": "ic24btech11060@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Sfcjwb",
+        "roll_no": "IC24BTECH11061",
+        "email": "ic24btech11061@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Nfklvk",
+        "roll_no": "IC24BTECH11062",
+        "email": "ic24btech11062@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Wlfcva",
+        "roll_no": "IC24BTECH11063",
+        "email": "ic24btech11063@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Rjjpeu",
+        "roll_no": "IC24BTECH11064",
+        "email": "ic24btech11064@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Zwrosf",
+        "roll_no": "CH24BTECH11001",
+        "email": "ch24btech11001@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Tdrldx",
+        "roll_no": "CH24BTECH11002",
+        "email": "ch24btech11002@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Bccrcy",
+        "roll_no": "CH24BTECH11003",
+        "email": "ch24btech11003@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Cydvcf",
+        "roll_no": "CH24BTECH11004",
+        "email": "ch24btech11004@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Abffed",
+        "roll_no": "CH24BTECH11005",
+        "email": "ch24btech11005@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Erqyrr",
+        "roll_no": "CH24BTECH11006",
+        "email": "ch24btech11006@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Zmdtiw",
+        "roll_no": "CH24BTECH11007",
+        "email": "ch24btech11007@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Arecdl",
+        "roll_no": "CH24BTECH11008",
+        "email": "ch24btech11008@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Rcuktb",
+        "roll_no": "CH24BTECH11009",
+        "email": "ch24btech11009@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Mkfawg",
+        "roll_no": "CH24BTECH11010",
+        "email": "ch24btech11010@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Cmlktg",
+        "roll_no": "CH24BTECH11011",
+        "email": "ch24btech11011@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Dhiqvc",
+        "roll_no": "CH24BTECH11012",
+        "email": "ch24btech11012@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Bzhtag",
+        "roll_no": "CH24BTECH11013",
+        "email": "ch24btech11013@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Gpsjkj",
+        "roll_no": "CH24BTECH11014",
+        "email": "ch24btech11014@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Frbows",
+        "roll_no": "CH24BTECH11015",
+        "email": "ch24btech11015@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Isskka",
+        "roll_no": "CH24BTECH11016",
+        "email": "ch24btech11016@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Powmox",
+        "roll_no": "CH24BTECH11017",
+        "email": "ch24btech11017@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Oetdqq",
+        "roll_no": "CH24BTECH11018",
+        "email": "ch24btech11018@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Pxdaiq",
+        "roll_no": "CH24BTECH11019",
+        "email": "ch24btech11019@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Ftjyxz",
+        "roll_no": "CH24BTECH11020",
+        "email": "ch24btech11020@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Fxxbfu",
+        "roll_no": "CH24BTECH11021",
+        "email": "ch24btech11021@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Odsono",
+        "roll_no": "CH24BTECH11022",
+        "email": "ch24btech11022@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Eldfxo",
+        "roll_no": "CH24BTECH11023",
+        "email": "ch24btech11023@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Vwxbxs",
+        "roll_no": "CH24BTECH11024",
+        "email": "ch24btech11024@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Qgfmgw",
+        "roll_no": "CH24BTECH11025",
+        "email": "ch24btech11025@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Nahsjk",
+        "roll_no": "CH24BTECH11026",
+        "email": "ch24btech11026@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Vtaloy",
+        "roll_no": "CH24BTECH11027",
+        "email": "ch24btech11027@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Xknjnc",
+        "roll_no": "CH24BTECH11028",
+        "email": "ch24btech11028@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Xlkxnr",
+        "roll_no": "CH24BTECH11029",
+        "email": "ch24btech11029@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Jvqutb",
+        "roll_no": "CH24BTECH11030",
+        "email": "ch24btech11030@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Prvftd",
+        "roll_no": "CH24BTECH11031",
+        "email": "ch24btech11031@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Ndijpe",
+        "roll_no": "CH24BTECH11032",
+        "email": "ch24btech11032@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Qvxjps",
+        "roll_no": "CH24BTECH11033",
+        "email": "ch24btech11033@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Uwipui",
+        "roll_no": "CH24BTECH11034",
+        "email": "ch24btech11034@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Jdplme",
+        "roll_no": "CH24BTECH11035",
+        "email": "ch24btech11035@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Zxflkb",
+        "roll_no": "CH24BTECH11036",
+        "email": "ch24btech11036@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Egvdby",
+        "roll_no": "CH24BTECH11037",
+        "email": "ch24btech11037@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Twpmne",
+        "roll_no": "CH24BTECH11038",
+        "email": "ch24btech11038@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Nlxzbr",
+        "roll_no": "CH24BTECH11039",
+        "email": "ch24btech11039@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Wykyip",
+        "roll_no": "CH24BTECH11040",
+        "email": "ch24btech11040@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Wpcvje",
+        "roll_no": "CH24BTECH11041",
+        "email": "ch24btech11041@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Cshapo",
+        "roll_no": "CH24BTECH11042",
+        "email": "ch24btech11042@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Ztcxtn",
+        "roll_no": "CH24BTECH11043",
+        "email": "ch24btech11043@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Ilfsiz",
+        "roll_no": "CH24BTECH11044",
+        "email": "ch24btech11044@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Fkdzxt",
+        "roll_no": "CH24BTECH11045",
+        "email": "ch24btech11045@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Ddzaqu",
+        "roll_no": "CH24BTECH11046",
+        "email": "ch24btech11046@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Wlzgbw",
+        "roll_no": "CH24BTECH11047",
+        "email": "ch24btech11047@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Ihosqp",
+        "roll_no": "CH24BTECH11048",
+        "email": "ch24btech11048@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Peakjy",
+        "roll_no": "CH24BTECH11049",
+        "email": "ch24btech11049@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Yqvpjp",
+        "roll_no": "CH24BTECH11050",
+        "email": "ch24btech11050@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Yenslx",
+        "roll_no": "CH24BTECH11051",
+        "email": "ch24btech11051@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Ukajqi",
+        "roll_no": "CH24BTECH11052",
+        "email": "ch24btech11052@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Sqscgl",
+        "roll_no": "CH24BTECH11053",
+        "email": "ch24btech11053@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Pkhniv",
+        "roll_no": "CH24BTECH11054",
+        "email": "ch24btech11054@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Pcwdgh",
+        "roll_no": "CH24BTECH11055",
+        "email": "ch24btech11055@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Dhfekz",
+        "roll_no": "CH24BTECH11056",
+        "email": "ch24btech11056@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Dazkrg",
+        "roll_no": "CH24BTECH11057",
+        "email": "ch24btech11057@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Mgclpw",
+        "roll_no": "CH24BTECH11058",
+        "email": "ch24btech11058@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Mxndsr",
+        "roll_no": "CH24BTECH11059",
+        "email": "ch24btech11059@iith.ac.in",
+        "previous_mess": "MESS-A",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    },
+    {
+        "name": "Whtuel",
+        "roll_no": "CH24BTECH11060",
+        "email": "ch24btech11060@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Xsqdgi",
+        "roll_no": "CH24BTECH11061",
+        "email": "ch24btech11061@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Fqrwia",
+        "roll_no": "CH24BTECH11062",
+        "email": "ch24btech11062@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Nbaqim",
+        "roll_no": "CH24BTECH11063",
+        "email": "ch24btech11063@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-B",
+        "mess_feedback": []
+    },
+    {
+        "name": "Lrkegq",
+        "roll_no": "CH24BTECH11064",
+        "email": "ch24btech11064@iith.ac.in",
+        "previous_mess": "MESS-B",
+        "current_mess": "MESS-A",
+        "mess_feedback": []
+    }
 ]
