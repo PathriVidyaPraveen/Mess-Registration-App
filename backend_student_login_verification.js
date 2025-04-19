@@ -28,8 +28,11 @@ app.post('/login', async (req, res) => {
     if (user) {
       const current_mess_of_student = user.current_mess;
       const previous_mess_of_student = user.previous_mess;
+      const name = user.name;
+      const roll_no = user.roll_no;
+      const email = user.email;
 
-      res.json({ message: 'Login successful' , current_mess: current_mess_of_student, previous_mess: previous_mess_of_student});
+      res.json({ message: 'Login successful' ,name : name , roll_no : roll_no , email : email, current_mess: current_mess_of_student, previous_mess: previous_mess_of_student});
     } else {
       res.status(401).json({ message: 'Invalid email or password' });
     }
