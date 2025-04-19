@@ -20,17 +20,21 @@ app.post('/login', async (req, res) => {
   try {
     await client.connect();
     const database = client.db("mess");
-    const admins = database.collection("admin");
+    const admins = database.collection("admins");
+    const students = database.collection("students")
 
     const user = await admins.findOne({ email: email, passwd: password });
 
     if (user) {
       var mess_of_admin = user.mess;
       var query = { current_mess : mess_of_admin};
-      const students_registered_for_mess = await admins.find(query,{projection : { _id : 0,name : 1,current_mess : 1}}).toArray();
+      const students_registered_for_mess = await students.find(query,{projection : { _id : 0,name : 1,roll_no : 1}}).toArray();
 
       
-      res.json(students_registered_for_mess);
+      res.json({
+        message: 'Login successful',
+        data: students_registered_for_mess
+      });
     } else {
       res.status(401).json({ message: 'Invalid email or password' });
     }
