@@ -45,9 +45,7 @@ function App() {
   
       const data = await response.json();
       if (response.ok) {
-        localStorage.setItem('studentPreviousMess', currentMess);
         localStorage.setItem('studentCurrentMess', data.assignedMess);
-        setPreviousMess(currentMess);
         setCurrentMess(data.assignedMess);
         alert(`Registered to ${data.assignedMess}`);
       } else {
