@@ -26,6 +26,12 @@ app.post('/api/current-mess', async (req, res) => {
     const max_limit_of_mess = 250;
 
     if (user) {
+      if (user.current_mess !== "") {
+        res.status(403).json({ message: 'Mess already registered. Cannot change mess.' });
+        return;
+      }
+
+      
       var myQuery = { _id : user._id};
       var registered_count_for_mess_a = await students.countDocuments({ current_mess : "MESS-A"});
       var registered_count_for_mess_b = await students.countDocuments({ current_mess : "MESS-B"});
