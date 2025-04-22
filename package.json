@@ -1,0 +1,28 @@
+{
+  "name": "mess_registration_app",
+  "version": "1.0.0",
+  "main": "App.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PathriVidyaPraveen/Mess-Registration-App.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PathriVidyaPraveen/Mess-Registration-App/issues"
+  },
+  "homepage": "https://github.com/PathriVidyaPraveen/Mess-Registration-App#readme",
+  "description": "",
+  "dependencies": {
+
+    "react": "^18.2.0",
+  "react-dom": "^18.2.0",
+    "react-scripts": "^3.0.1"
+  }
+}
