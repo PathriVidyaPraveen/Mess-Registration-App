@@ -1,0 +1,25 @@
+{
+  "name": "mess_registration_app",
+  "version": "1.0.0",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PathriVidyaPraveen/Mess-Registration-App.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PathriVidyaPraveen/Mess-Registration-App/issues"
+  },
+  "homepage": "https://github.com/PathriVidyaPraveen/Mess-Registration-App#readme",
+  "description": "",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "mongodb": "^6.15.0"
+  }
+}
